@@ -1,2 +1,6 @@
+**/build
+**/dist
+**/aihubcore.eeg-info
 .idea/*
 **/*.pyc
+**/.ipynb_checkpoints
